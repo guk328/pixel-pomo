@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# PyInstaller output (the .exe goes in GitHub Releases, not the repo)
+build/
+dist/
+*.spec
+
+# Personal settings (window position, tasks, etc.)
+settings.json
