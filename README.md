@@ -26,7 +26,7 @@ After the first time, you only need `python3 main.py` from step 4! I haven't tes
 ## How to use
 
 - Press **Space** to start or pause the timer, or use the buttons on screen!
-- Drag the top bar to move it anywhere.
+- Drag the top bar on the top left corner to move it anywhere.
 - Use the buttons in the top bar for your **tasks**, **settings**, **pin to the top of your desktop**, and to **minimize** or **close**.
 - Press **M** to switch mascots and **C** to change themes! These actions can also be done in settings.
 - In settings, you can also customize your **time intervals** and **alarm sound**!
